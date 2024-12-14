@@ -6,7 +6,7 @@ class Visualizer:
         self.monitor = monitor
 
     def cli_summary(self):
-        print("\n--- Agent Watch Summary ---")
+        print("\n--- CrewWatch Summary ---")
         print(f"Total Time: {self.monitor.total_time:.2f} seconds")
         print(f"Input Tokens: {self.monitor.input_tokens}")
         print(f"Output Tokens: {self.monitor.output_tokens}")
