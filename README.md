@@ -112,5 +112,6 @@ watch.end()
 
 watch.visualize(method='cli')
 ```
-
+## How to download
+Download: https://pypi.org/project/CrewWatch/0.0.1/
 
